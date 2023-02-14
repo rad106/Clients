@@ -1,0 +1,3 @@
+Client: Cartera
+Project: Drug PZ
+Deliverables: method development and qualification
